@@ -1,9 +1,20 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
+### Hi there 👋
+
+<hr />
 
 My name is Mauricio Rodrigues. I work as a Tech Lead at Alter Solutions Portugal.
+
+I write dreams with codes, love - and know - PHP, Laravel, Cloud, AWS, microsservices, CI/CD, infrastructure, React, javascript, TypeScript, C#, .Net Core, DDD and CQRS. 
+
+How to reach me:
+
+- [LinkedIn](https://linkedin.com/in/mauriciovsr)
+- [Instagram](https://instagram.com/mauricio.vsr)
+- [Professional e-mail](mailto:mrodrigues@alter-solutions.com)
+- [Personal e-mail](mailto:mauricio.vsr@gmail.com)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=zabaala&repo=zabaala&countColorcountColor)
 
