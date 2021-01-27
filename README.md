@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<hr />
-
 My name is Mauricio Rodrigues. I work as a Tech Lead at Alter Solutions Portugal.
 
 I write dreams with codes, love - and know - PHP, Laravel, Cloud, AWS, microsservices, CI/CD, infrastructure, React, javascript, TypeScript, C#, .Net Core, DDD and CQRS. 
