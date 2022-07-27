@@ -9,8 +9,6 @@ I write dreams with codes, love - and know - PHP, Laravel, Cloud, AWS, microsser
 How to reach me:
 
 - [LinkedIn](https://linkedin.com/in/mauriciovsr)
-- [Instagram](https://instagram.com/mauricio.vsr)
-- [Professional e-mail](mailto:mrodrigues@alter-solutions.com)
 - [Personal e-mail](mailto:mauricio.vsr@gmail.com)
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zabaala&layout=compact&count_private=true)
